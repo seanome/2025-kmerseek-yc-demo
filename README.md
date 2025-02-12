@@ -1,4 +1,4 @@
-# 2025-kmerseek-yc-demo
+# [2025-kmerseek-yc-demo](https://github.com/seanome/2025-kmerseek-yc-demo)
 Kmerseek demo example for YC S25 Application
 
 ## Installation instructions
