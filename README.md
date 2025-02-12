@@ -1,4 +1,4 @@
-# 2025-yc-demo
+# 2025-kmerseek-yc-demo
 Kmerseek demo example for YC S25 Application
 
 ## Installation instructions
@@ -12,12 +12,11 @@ conda env create --file environment.yml
 Then install the kmerseek branch:
 
 ```
-pip install git+https://github.com/seanome/kmerseek/tree/olgabot/initial-demo
+pip install git+https://github.com/seanome/kmerseek.git@olgabot/initial-demo
 ```
 
 
 ## Running instructions
-
 
 
 ### Create the searchable index
