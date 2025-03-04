@@ -6,7 +6,13 @@ Kmerseek demo example for YC S25 Application
 Create a [conda](https://docs.conda.io/en/latest/) environment:
 
 ```
-conda env create --file environment.yml
+conda create -n 2025-kmerseek-yc-demo -c conda-forge -c bioconda --yes polars sourmash click pandas sourmash_plugin_branchwater
+```
+
+Activate the environment:
+
+```
+conda activate 2025-kmerseek-yc-demo 
 ```
 
 Then install the kmerseek branch:
