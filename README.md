@@ -36,7 +36,7 @@ kmerseek \
     bcl2_first25_uniprotkb_accession_O43236_OR_accession_2025_02_06.fasta.gz
 ```
 
-<details><summary>kmerseek index output</summary>
+<details><summary>`kmerseek index` output</summary>
 
 ```
 kmerseek \
@@ -89,7 +89,7 @@ kmerseek \
     bcl2_first25_uniprotkb_accession_O43236_OR_accession_2025_02_06.fasta.gz
 ```
 
-<details><summary>kmerseek index output</summary>
+<details><summary>`kmerseek search` output</summary>
 
 ```
 kmerseek \
